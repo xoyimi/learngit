@@ -129,4 +129,4 @@ $ git remote -v  查看远程仓库
 $ git remote add <shortname> <url> 添加远程仓库
 git push [remote-name] [branch-name] 推送到远程仓库
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
