@@ -107,7 +107,7 @@ $ git rm file    从暂存区域移除文件暂存区域移除并连带从工作目录中删除指定的文件
 
 $ git mv file_from file_to 在Git中对文件改名
 其实，运行 git mv 就相当于运行了下面三条命令：
-$ mv README.md README
+$ mv README.md README 
 $ git rm README.md
 $ git add README
 
