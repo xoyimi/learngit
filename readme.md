@@ -1,53 +1,37 @@
-¼ÇÂ¼Ò»Ğ©gitÃüÁî
+è®°å½•ä¸€äº›gitå‘½ä»¤
 
-$ git config --global user.name "xoyimi"  ÉèÖÃÓÃ»§ÃûºÍÓÊÏä ·½±ã¼ÇÂ¼Ìá½»ÕßĞÅÏ¢,
-$ git config --global user.email xoyimi@foxmail.com   Ëü»áĞ´Èëµ½ÄãµÄÃ¿Ò»´ÎÌá½»ÖĞ£¬²»¿É¸ü¸Ä
-Õë¶ÔÌØ¶¨ÏîÄ¿Ê¹ÓÃ²»Í¬µÄÓÃ»§Ãû³ÆÓëÓÊ¼şµØÖ·Ê± ÔÚÄÇ¸öÏîÄ¿Ä¿Â¼ÏÂÔËĞĞÃ»ÓĞ --global Ñ¡ÏîµÄÃüÁîÀ´ÅäÖÃ¡£
-$ git config --list   ÁĞ³öËùÓĞ Git µ±Ê±ÄÜÕÒµ½µÄÅäÖÃ
-$ git init   ÔÚµ±Ç°Ä¿Â¼ÖĞ³õÊ¼»¯²Ö¿â
-$ git remote add origin git@github.com:xoyimi/learngit.git   ¹ØÁªÔ¶³Ì²Ö¿â
-$ git remote -v   ²é¿´Ô¶³Ì²Ö¿â
-$ git remote rm origin   É¾³ıÒÑ¹ØÁªµÄÔ¶³Ì¿â
-$ git clone git@github.com:xoyimi/learngit.git   ¿ËÂ¡ÏÖÓĞµÄ²Ö¿â
-$ git status ¼ì²éµ±Ç°ÎÄ¼ş×´Ì¬
-$ git add [file] ¸ú×ÙÎÄ¼ş,Ìí¼Óµ½Ôİ´æÇø
-$ git diff   Òª²é¿´ÉĞÎ´Ôİ´æµÄÎÄ¼ş¸üĞÂÁËÄÄĞ©²¿·Ö
-$ git diff --staged/--cached   ²é¿´ÒÑÔİ´æµÄ½«ÒªÌí¼Óµ½ÏÂ´ÎÌá½»ÀïµÄÄÚÈİ
-$ git commit -m "Ìá½»ËµÃ÷"    Ìá½»¸üĞÂ
-$ git commit -a   °ÑËùÓĞÒÑ¾­¸ú×Ù¹ıµÄÎÄ¼şÔİ´æÆğÀ´Ò»²¢Ìá½»£¬´Ó¶øÌø¹ı git add ²½Öè
-$ git rm file    ´ÓÔİ´æÇøÓòÒÆ³ıÎÄ¼şÔİ´æÇøÓòÒÆ³ı²¢Á¬´ø´Ó¹¤×÷Ä¿Â¼ÖĞÉ¾³ıÖ¸¶¨µÄÎÄ¼ş
-$ git mv file_from file_to   ÔÚGitÖĞ¶ÔÎÄ¼ş¸ÄÃû
-ÆäÊµ£¬ÔËĞĞ git mv ¾ÍÏàµ±ÓÚÔËĞĞÁËÏÂÃæÈıÌõÃüÁî£º
+$ git config --global user.name "xoyimi"  è®¾ç½®ç”¨æˆ·åå’Œé‚®ç®± æ–¹ä¾¿è®°å½•æäº¤è€…ä¿¡æ¯,
+$ git config --global user.email xoyimi@foxmail.com   å®ƒä¼šå†™å…¥åˆ°ä½ çš„æ¯ä¸€æ¬¡æäº¤ä¸­ï¼Œä¸å¯æ›´æ”¹
+é’ˆå¯¹ç‰¹å®šé¡¹ç›®ä½¿ç”¨ä¸åŒçš„ç”¨æˆ·åç§°ä¸é‚®ä»¶åœ°å€æ—¶ åœ¨é‚£ä¸ªé¡¹ç›®ç›®å½•ä¸‹è¿è¡Œæ²¡æœ‰ --global é€‰é¡¹çš„å‘½ä»¤æ¥é…ç½®ã€‚
+$ git config --list   åˆ—å‡ºæ‰€æœ‰ Git å½“æ—¶èƒ½æ‰¾åˆ°çš„é…ç½®
+$ git init   åœ¨å½“å‰ç›®å½•ä¸­åˆå§‹åŒ–ä»“åº“
+$ git remote add origin git@github.com:xoyimi/learngit.git   å…³è”è¿œç¨‹ä»“åº“
+$ git remote -v   æŸ¥çœ‹è¿œç¨‹ä»“åº“
+$ git remote rm origin   åˆ é™¤å·²å…³è”çš„è¿œç¨‹åº“
+$ git clone git@github.com:xoyimi/learngit.git   å…‹éš†ç°æœ‰çš„ä»“åº“
+$ git status æ£€æŸ¥å½“å‰æ–‡ä»¶çŠ¶æ€
+$ git add [file] è·Ÿè¸ªæ–‡ä»¶,æ·»åŠ åˆ°æš‚å­˜åŒº
+$ git diff   è¦æŸ¥çœ‹å°šæœªæš‚å­˜çš„æ–‡ä»¶æ›´æ–°äº†å“ªäº›éƒ¨åˆ†
+$ git diff --staged/--cached   æŸ¥çœ‹å·²æš‚å­˜çš„å°†è¦æ·»åŠ åˆ°ä¸‹æ¬¡æäº¤é‡Œçš„å†…å®¹
+$ git commit -m "æäº¤è¯´æ˜"    æäº¤æ›´æ–°
+$ git commit -a   æŠŠæ‰€æœ‰å·²ç»è·Ÿè¸ªè¿‡çš„æ–‡ä»¶æš‚å­˜èµ·æ¥ä¸€å¹¶æäº¤ï¼Œä»è€Œè·³è¿‡ git add æ­¥éª¤
+$ git rm file    ä»æš‚å­˜åŒºåŸŸç§»é™¤æ–‡ä»¶æš‚å­˜åŒºåŸŸç§»é™¤å¹¶è¿å¸¦ä»å·¥ä½œç›®å½•ä¸­åˆ é™¤æŒ‡å®šçš„æ–‡ä»¶
+$ git mv file_from file_to   åœ¨Gitä¸­å¯¹æ–‡ä»¶æ”¹å
+å…¶å®ï¼Œè¿è¡Œ git mv å°±ç›¸å½“äºè¿è¡Œäº†ä¸‹é¢ä¸‰æ¡å‘½ä»¤ï¼š
 $ mv README.md README 
 $ git rm README.md
 $ git add README
-$ git log   °´Ìá½»Ê±¼äÁĞ³öËùÓĞµÄ¸üĞÂ£¬Ã¿¸öÌá½»µÄ SHA-1 Ğ£ÑéºÍ¡¢×÷ÕßÃû ÓÊ¼şµØÖ·¡¢Ìá½»Ê±¼äÒÔ¼°Ìá½»ËµÃ÷
-$ git log -p -2   -p ÓÃÀ´ÏÔÊ¾Ã¿´ÎÌá½»µÄÄÚÈİ²îÒì¡£ -2 ½öÏÔÊ¾×î½üÁ½´ÎÌá½»
-$ git reset HEAD file  È¡ÏûÔİ´æµÄÎÄ¼ş
-$git checkout -- file ³·Ïû¶ÔÎÄ¼şµÄĞŞ¸Ä
-¹ØÓÚ°æ±¾»ØÍË/³·Ïú
-1.Ã»ÓĞgit addÊ±£¬ÓÃgit checkout -- file
-2.ÒÑ¾­git addÊ±£¬ÏÈgit reset HEAD <file>»ØÍËµ½1.£¬ÔÙ°´1.²Ù×÷
-3.ÒÑ¾­git commitÊ±£¬ÓÃgit reset»ØÍË°æ±¾
-4.ÍÆËÍµ½Ô¶³Ì¿â£¬GG?
-
-$ git push [remote-name] [branch-name] ÍÆËÍµ½Ô¶³Ì²Ö¿â
-$ git pull [remote-name] [branch-name] ×¥È¡ÏÂÀ´
-$ git branch --set-upstream-to=origin/dev dev Ö¸¶¨±¾µØdev·ÖÖ§ºÍÔ¶³Ìorigin/dev·ÖÖ§µÄÁ´½Ó
-¶àÈËÔÚÍ¬Ò»¸ö·ÖÖ§ÉÏĞ­×÷Ê±£¬ºÜÈİÒ×³öÏÖ³åÍ»¡£¼´Ê¹Ã»ÓĞ³åÍ»£¬ºópushµÄÍ¯Ğ¬²»µÃ²»ÏÈpull£¬
-ÔÚ±¾µØºÏ²¢£¬È»ºó²ÅÄÜpush³É¹¦¡£
-$ git rebase   rebase²Ù×÷¿ÉÒÔ°Ñ±¾µØÎ´pushµÄ·Ö²æÌá½»ÀúÊ·ÕûÀí³ÉÖ±Ïß£»
-rebaseµÄÄ¿µÄÊÇÊ¹µÃÎÒÃÇÔÚ²é¿´ÀúÊ·Ìá½»µÄ±ä»¯Ê±¸üÈİÒ×£¬ÒòÎª·Ö²æµÄÌá½»ĞèÒªÈı·½¶Ô±È¡£
-$ git tag v1.0 ´òÒ»¸öĞÂ±êÇ©,Ä¬ÈÏÊÇÔÚ×îĞÂµÄcommitÉÏ´ò,Ò²¿ÉÒÔ´òÔÚÖ®Ç°µÄÉÏÃæ,$ git tag v0.9 f52c633
-$ git show <tagname>   ²é¿´±êÇ©ĞÅÏ¢
-$ git tag -a v0.1 -m "version 0.1 released" 1094adb  ´´½¨´øÓĞËµÃ÷µÄ±êÇ©£¬-a Ö¸¶¨±êÇ©Ãû£¬-m Ö¸¶¨Ìá½»ËµÃ÷
-$ git push origin <tagname>   ¿ÉÒÔÍÆËÍÒ»¸ö±¾µØ±êÇ©
-$ git push origin --tags   ¿ÉÒÔÍÆËÍÈ«²¿Î´ÍÆËÍ¹ıµÄ±¾µØ±êÇ©
-$ git tag -d <tagname>   ¿ÉÒÔÉ¾³ıÒ»¸ö±¾µØ±êÇ©
-$ git push origin :refs/tags/<tagname>   ¿ÉÒÔÉ¾³ıÒ»¸öÔ¶³Ì±êÇ©
-$ git config --global alias.st status   ÅäÖÃÃüÁî±ğÃû
-$ git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
-ÔÚGitHubÉÏ£¬¿ÉÒÔÈÎÒâFork¿ªÔ´²Ö¿â£»
-×Ô¼ºÓµÓĞForkºóµÄ²Ö¿âµÄ¶ÁĞ´È¨ÏŞ£»
-¿ÉÒÔÍÆËÍpull request¸ø¹Ù·½²Ö¿âÀ´¹±Ï×´úÂë¡£
-.gitignore µÄÎÄ¼ş£¬ÁĞ³öÒªºöÂÔµÄÎÄ¼şÄ£Ê½¡£
+$ git log   æŒ‰æäº¤æ—¶é—´åˆ—å‡ºæ‰€æœ‰çš„æ›´æ–°ï¼Œæ¯ä¸ªæäº¤çš„ SHA-1 æ ¡éªŒå’Œã€ä½œè€…å é‚®ä»¶åœ°å€ã€æäº¤æ—¶é—´ä»¥åŠæäº¤è¯´æ˜
+$ git log -p -2   -p ç”¨æ¥æ˜¾ç¤ºæ¯æ¬¡æäº¤çš„å†…å®¹å·®å¼‚ã€‚ -2 ä»…æ˜¾ç¤ºæœ€è¿‘ä¸¤æ¬¡æäº¤
+$ git reset HEAD file  å–æ¶ˆæš‚å­˜çš„æ–‡ä»¶
+$git checkout -- file æ’¤æ¶ˆå¯¹æ–‡ä»¶çš„ä¿®æ”¹
+å…³äºç‰ˆæœ¬å›é€€/æ’¤é”€
+1.æ²¡æœ‰git addæ—¶ï¼Œç”¨git checkout -- file
+2.å·²ç»git addæ—¶ï¼Œå…ˆgit reset HEAD <file>å›é€€åˆ°1.ï¼Œå†æŒ‰1.æ“ä½œ
+3.å·²ç»git commitæ—¶ï¼Œç”¨git resetå›é€€ç‰ˆæœ¬
+4.æ¨é€åˆ°è¿œç¨‹åº“ï¼ŒGG?
+$ git push [remote-name] [branch-name] æ¨é€åˆ°è¿œç¨‹ä»“åº“
+$ git pull [remote-name] [branch-name] æŠ“å–ä¸‹æ¥
+$ git branch --set-upstream-to=origin/dev dev æŒ‡å®šæœ¬åœ°devåˆ†æ”¯å’Œè¿œç¨‹origin/devåˆ†æ”¯çš„é“¾æ¥
+å¤šäººåœ¨åŒä¸€ä¸ªåˆ†æ”¯ä¸Šåä½œæ—¶ï¼Œå¾ˆå®¹æ˜“å‡ºç°å†²çªã€‚å³ä½¿æ²¡æœ‰å†²çªï¼Œåpushçš„ç«¥é‹ä¸å¾—ä¸å…ˆpullï¼Œ
+åœ¨æœ¬åœ°åˆ
