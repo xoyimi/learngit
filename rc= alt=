@@ -1,0 +1,127 @@
+[33mcommit e99995ec59a51ee74c7f717a325f886e4af5807e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Mon May 3 22:16:45 2021 +0800
+
+    add index.html
+
+[33mcommit 735767a09dd366c442e85e79b09168b88830752f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: xoyimi <48340615+xoyimi@users.noreply.github.com>
+Date:   Tue Jan 19 18:54:27 2021 +0800
+
+    Rename readme.md to README.md
+
+[33mcommit 35c8a765cecc4ac10e7e28484a198852699f4471[m[33m ([m[1;31morigin/xiongyingming[m[33m)[m
+Author: xoyimi <48340615+xoyimi@users.noreply.github.com>
+Date:   Tue Oct 15 10:13:28 2019 +0800
+
+    Update readme.md
+
+[33mcommit e7abca8e72936e3faa273b331d34e86e2ed9b5f5[m[33m ([m[1;33mtag: v1.0[m[33m)[m
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Tue Oct 15 10:09:36 2019 +0800
+
+    add some command
+
+[33mcommit 52f04a84d169b9bc0c08ab26bc97e9291bf875ec[m
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Tue Oct 15 10:06:26 2019 +0800
+
+    add some command
+
+[33mcommit 01db684a278ff2de848b6b77734045a67d674e3d[m
+Merge: c5d76b5 37226fb
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Tue Oct 15 00:11:01 2019 +0800
+
+    merge with no-ff
+
+[33mcommit 37226fb3e0f37cb82958fb0ac65208164dd9d60e[m
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Tue Oct 15 00:09:55 2019 +0800
+
+    add merge
+
+[33mcommit c5d76b5906025658f58d2fab4c7c8080c73b4bfc[m
+Merge: b2ad4f7 ab005bb
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Tue Oct 15 00:04:13 2019 +0800
+
+    confict fixed
+
+[33mcommit b2ad4f726bcd4205028525e77fa7224e751b3bc2[m
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Mon Oct 14 23:59:18 2019 +0800
+
+    & simple
+
+[33mcommit ab005bba5ba8ece09ff160d7f37db77410c6c624[m
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Mon Oct 14 23:56:45 2019 +0800
+
+    AND simple
+
+[33mcommit aa2860d8f25f5db7ef5a058b63eaafabba9f1737[m
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Mon Oct 14 12:43:51 2019 +0800
+
+    add some git command
+
+[33mcommit 3069fb2fce441f164e13b54f6b1708d1dc66bd76[m
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Mon Oct 14 12:42:23 2019 +0800
+
+    add some git commond
+
+[33mcommit d0b58d62b82bbad6160e669ae1e3cfd4dc5ad4a9[m
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Mon Oct 14 11:28:48 2019 +0800
+
+    branch test
+
+[33mcommit 15a3d302b925eb1b6f0a49d1812265fced320b16[m
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Mon Oct 14 10:12:25 2019 +0800
+
+    romove test.txt
+
+[33mcommit 231af1fe243f85148d856c80940a862f2f3e75ca[m
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Mon Oct 14 10:06:25 2019 +0800
+
+    add test.txt
+
+[33mcommit 6b54787024ad3ff7684e46f518829a6612ac1014[m
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Mon Oct 14 09:39:40 2019 +0800
+
+    git track changes 2
+
+[33mcommit 53822f1dce244cea08c240eb1967f548caf6e070[m
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Mon Oct 14 09:34:09 2019 +0800
+
+    git tracks changes
+
+[33mcommit 422b45f927041132e40b0001640821fe75844806[m
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Mon Oct 14 09:23:12 2019 +0800
+
+    understand how stage works
+
+[33mcommit b634437fbdbc6d972f553d7f35c6030a1748cd42[m
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Sun Oct 13 12:18:20 2019 +0800
+
+    append GPL
+
+[33mcommit 9a031dc38255a3061727c981bb5df5cca5efeb28[m
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Sun Oct 13 12:08:07 2019 +0800
+
+    add distributed
+
+[33mcommit 6ab00f17e960e968f491c4d979c9a0314d1158af[m
+Author: xoyimi <xoyimi@foxmail.com>
+Date:   Sun Oct 13 12:02:07 2019 +0800
+
+    wrote a readme file
